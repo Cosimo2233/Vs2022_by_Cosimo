@@ -1,0 +1,10 @@
+﻿  FileName.c
+C:\Users\Administrator\source\repos\Project2\Project2\FileName.c(47,17): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      C:\Users\Administrator\source\repos\Project2\Project2\FileName.c(47,17):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      C:\Users\Administrator\source\repos\Project2\Project2\FileName.c(47,17):
+      缺失的可变参数 2 为格式字符串“%c”所需
+      C:\Users\Administrator\source\repos\Project2\Project2\FileName.c(47,17):
+      此参数用作缓冲区大小
+  
+  Project2.vcxproj -> C:\Users\Administrator\source\repos\Project2\x64\Debug\Project2.exe
