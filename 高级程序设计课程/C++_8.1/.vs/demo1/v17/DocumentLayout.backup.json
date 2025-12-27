@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u5475\u5475\\Desktop\\\u9AD8\u6570\\test_8\\demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D57C65-1FB6-40BD-986B-D58A30846764}|demo1\\demo1.vcxproj|C:\\Users\\\u5475\u5475\\Desktop\\\u9AD8\u6570\\test_8\\demo1\\demo1\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4D57C65-1FB6-40BD-986B-D58A30846764}|demo1\\demo1.vcxproj|solutionrelative:demo1\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D57C65-1FB6-40BD-986B-D58A30846764}|demo1\\demo1.vcxproj|C:\\Users\\\u5475\u5475\\Desktop\\\u9AD8\u6570\\test_8\\demo1\\demo1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4D57C65-1FB6-40BD-986B-D58A30846764}|demo1\\demo1.vcxproj|solutionrelative:demo1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Time.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5475\u5475\\Desktop\\\u9AD8\u6570\\test_8\\demo1\\demo1\\Time.cpp",
+              "RelativeDocumentMoniker": "demo1\\Time.cpp",
+              "ToolTip": "C:\\Users\\\u5475\u5475\\Desktop\\\u9AD8\u6570\\test_8\\demo1\\demo1\\Time.cpp",
+              "RelativeToolTip": "demo1\\Time.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-27T08:08:36.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\\u5475\u5475\\Desktop\\\u9AD8\u6570\\test_8\\demo1\\demo1\\test.cpp",
+              "RelativeDocumentMoniker": "demo1\\test.cpp",
+              "ToolTip": "C:\\Users\\\u5475\u5475\\Desktop\\\u9AD8\u6570\\test_8\\demo1\\demo1\\test.cpp",
+              "RelativeToolTip": "demo1\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-27T08:08:27.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
